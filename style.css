@@ -11,5 +11,17 @@ font-family: fantasy;
 
 ul{
     list-style-type: square;
+}
+
+#menu-bar a{ text-decoration: none;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    }
+
+#menu-bar a:hover{
+
+       background-color: aqua;
+       color:white;
 
 }
